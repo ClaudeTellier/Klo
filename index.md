@@ -3,7 +3,8 @@ Petite liste de références :
 Sites institutionnels
 - [pronote Malherbe](https://0140013n.index-education.net/pronote/?login=true)
 - [ENT Malherbe](https://ent.l-educdenormandie.fr/auth/login#/)
-- [Arena (services rectorat : Mail, Santorin, Cyclades, ENSAP, etc ...)](https://login.ac-normandie.fr/idp/profile/oidc/authorize?execution=e1s2)
+- [Arena (services rectorat : Mail, Santorin, Cyclades, ENSAP, etc ...)](https://extranet.ac-normandie.fr/monintranet/))
+- [Le mail académique en direct](https://webmail.ac-normandie.fr/)
 
 Livres :
 - 2nde
