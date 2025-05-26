@@ -7,7 +7,7 @@ Petite liste de références :
 - [Arena (services rectorat : Mail, Santorin, Cyclades, ENSAP, etc ...)](https://extranet.ac-normandie.fr/monintranet/))
 - [Le mail académique en direct](https://webmail.ac-normandie.fr/)
 
-> [Notes de Khôlles] (https://cahier-de-prepa.fr/mpsi2-malherbe/)
+> [Notes de Khôlles](https://cahier-de-prepa.fr/mpsi2-malherbe/)
 
 > Livres :
 
