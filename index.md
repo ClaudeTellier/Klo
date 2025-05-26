@@ -2,7 +2,7 @@ Petite liste de références :
 
 Sites institutionnels
 - [pronote Malherbe](https://0140013n.index-education.net/pronote/?login=true)
-- ENT
+- [ENT Malherbe](https://ent.l-educdenormandie.fr/auth/login#/)
 - Arena (services rectorat)
 
 Livres :
