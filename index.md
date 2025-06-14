@@ -20,6 +20,5 @@ Petite liste de références :
 > un petit site bien intéressant :
 > [Microcosmos](https://mucosmos.github.io/)
 
-> Le diapo de Louise : [diapo ORAL DE BREVET.pdf] (/klo/ORALBREVET.pdf)
->
-> 
+> Le diapo de Louise :
+> [diapo ORAL DE BREVET.pdf](/ORALBREVET.pdf)
